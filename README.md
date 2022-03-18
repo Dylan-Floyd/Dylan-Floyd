@@ -6,5 +6,5 @@ Back-End: Node.js, Express
 Front-End: React  
 Databases: PostgreSQL, Supabase  
 Tools: React Dev Tools, Node Debugger, Git, GitHub, VSCode, Heroku, Netlify  
-Testing Suites: Testing Library, Jest, QUnit, Supatest, MSW  
+Testing Suites: Testing Library, Jest, QUnit, Supertest, MSW  
 Dev Practices: TDD, Pair/Mob Programming  
